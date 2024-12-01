@@ -1,10 +1,12 @@
-# React + Vite
+Zentry Clone is a React + Vite Single Page Application replicating some of the features of the award winning website Zentry.com\
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is built for educational purposes and to create a visualing appealing website with exciting user interfaces and experiences. The main features of this landing page include scroll/shaped animations, 3D effects, and video transitions using React, TailwindCSS, and GSAP.\
 
-Currently, two official plugins are available:
+Resources: \
+To make custom clips paths: https://bennettfeely.com/clippy/ \
+For javascript animations: https://gsap.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-https://bennettfeely.com/clippy/
+Credits: \
+Zentry Clone was made solely from the dedicated time and effort of @adrianhajdin. @OtbeyNat watched @adrianhajdin's tutorial video to learn the fundamentals of GSAP and TailwindCSS to make great frontends. \
+https://github.com/adrianhajdin/award-winning-website \ 
+https://www.youtube.com/watch?v=zA9r5zTllx4
