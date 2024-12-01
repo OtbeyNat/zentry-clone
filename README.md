@@ -2,6 +2,8 @@ Zentry Clone is a React + Vite Single Page Application replicating some of the f
 
 This project is built for educational purposes and to create a visualing appealing website with exciting user interfaces and experiences. The main features of this landing page include scroll/shaped animations, 3D effects, and video transitions using React, TailwindCSS, and GSAP.\
 
+https://zentry-clone-theta.vercel.app/
+
 Resources: \
 To make custom clips paths: https://bennettfeely.com/clippy/ \
 For javascript animations: https://gsap.com/
